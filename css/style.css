@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+}
+.main-wrapper {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
+.top-wrapper {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+}
+.bottom-wrapper {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+}
+.cube {
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+}
+.end-wrapper {
+    text-align: center;
+}
